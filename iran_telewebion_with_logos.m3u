@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 #EXTINF:-1 tvg-name="Radio Javan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Radio_Javan_Logo.png" group-title="Music",Radio Javan
-http://204.168.130.10:8787/proxy?url=https://rjtvhls.wns.live/hls/stream.m3u8
+https://rjtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="Iran International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Iran_International_logo_2021_en.svg" group-title="News",Iran International
 https://live.livetvstream.co.uk/LS-63503-4/index.m3u8|User-Agent=Mozilla/5.0
