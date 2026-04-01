@@ -1,13 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
-#EXTINF:-1 tvg-name="Radio Javan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Radio_Javan_Logo.png" group-title="Music",Radio Javan
-https://rjtvhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-name="Iran International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Iran_International.svg.png" group-title="News",Iran International
+#EXTINF:-1 tvg-name="Iran International" tvg-logo="https://www.kindpng.com/picc/m/465-4651825_iran-international-logo-hd-png-download.png" group-title="News",Iran International
 https://live.livetvstream.co.uk/LS-63503-4/index.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-name="BBC Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/BBC_Persian_TV_logo.svg/512px-BBC_Persian_TV_logo.svg.png" group-title="News",BBC Persian
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-id="tv1.ir" tvg-name="IRIB TV1" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="National",IRIB TV1
 https://live-azd1101.telewebion.ir/ek/tv1/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
