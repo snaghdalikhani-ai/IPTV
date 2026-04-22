@@ -174,6 +174,11 @@ https://live-azd1101.telewebion.ir/ek/sport2/live/1080p/index.m3u8|Referer=https
 #EXTINF:-1 tvg-id="sport3.ir" tvg-name="Telewebion Sport 3" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Telewebion Sport 3
 https://live-azd1101.telewebion.ir/ek/sport3/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
-
 #EXTINF:-1 tvg-id="nesfejahan.ir" tvg-name="Nesfe Jahan" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Nesfe Jahan
 https://live-azd1101.telewebion.ir/ek/nesfejahan/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="🎬 Movies",برای یک زندگی معمولی
+https://pub-0e6745d891ed4f1280f06deab9f8b41e.r2.dev/medias/movies/2162-322079718
+
+#EXTINF:-1 group-title="🎬 Movies",مثل یک راز
+https://pub-0e6745d891ed4f1280f06deab9f8b41e.r2.dev/medias/movies/2079-216124598
