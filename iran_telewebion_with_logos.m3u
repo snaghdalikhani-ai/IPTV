@@ -16,13 +16,13 @@ https://live-azd1101.telewebion.ir/ek/tv3/live/1080p/index.m3u8|Referer=https://
 https://live-azd1101.telewebion.ir/ek/tv4/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="tehran.ir" tvg-name="IRIB TV5 / Tehran" tvg-logo="https://camo.githubusercontent.com/a768524f93fd2618044d47ee691f4093131486d9d4c82aa5b61d65726729c8d7/68747470733a2f2f692e696d6775722e636f6d2f56644f46634e342e706e67" group-title="National",IRIB TV5 / Tehran
-https://live-azd1105.telewebion.ir/ek/tehran/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1113.telewebion.ir/ek/tehran/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="nasim.ir" tvg-name="IRIB Nasim" tvg-logo="https://camo.githubusercontent.com/2605bd724ea0ed8c923c5569d9eeba0db78d193713b2175bfd1856d7cdbca8e0/68747470733a2f2f692e696d6775722e636f6d2f45716a514e38332e706e67" group-title="Entertainment",IRIB Nasim
-https://live-azd1101.telewebion.ir/ek/nasim/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1108.telewebion.ir/ek/nasim/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="irinn.ir" tvg-name="IRINN" tvg-logo="https://camo.githubusercontent.com/493d1f48f73d20614ff515a808063425fe6f96bc0251ab729769954e911d5204/68747470733a2f2f692e696d6775722e636f6d2f37484c346a6f712e706e67" group-title="News",IRINN
-https://live-azd1101.telewebion.ir/ek/irinn/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1102.telewebion.ir/ek/irinn/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="irinn2.ir" tvg-name="IRINN 2" tvg-logo="https://camo.githubusercontent.com/493d1f48f73d20614ff515a808063425fe6f96bc0251ab729769954e911d5204/68747470733a2f2f692e696d6775722e636f6d2f37484c346a6f712e706e67" group-title="News",IRINN 2
 https://live-azd1101.telewebion.ir/ek/irinn2/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
@@ -49,13 +49,13 @@ https://live-azd1101.telewebion.ir/ek/hdtest/live/1080p/index.m3u8|Referer=https
 https://live-azd1101.telewebion.ir/ek/ifilm/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="azarbayjangharbi.ir" tvg-name="Azarbayjan Gharbi" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Azarbayjan Gharbi
-https://live-azd1101.telewebion.ir/ek/azarbayjangharbi/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1101.telewebion.ir/ek/azarbayjangharbi/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="sahand.ir" tvg-name="Sahand" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Sahand
-https://live-azd1101.telewebion.ir/ek/sahand/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1111.telewebion.ir/ek/sahand/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="alborz.ir" tvg-name="Alborz" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Alborz
-https://live-azd1101.telewebion.ir/ek/alborz/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1106.telewebion.ir/ek/alborz/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="esfahan.ir" tvg-name="Esfahan" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Esfahan
 https://live-azd1101.telewebion.ir/ek/esfahan/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
@@ -79,7 +79,7 @@ https://live-azd1101.telewebion.ir/ek/khorasanrazavi/live/1080p/index.m3u8|Refer
 https://live-azd1101.telewebion.ir/ek/atrak/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="khalijefars.ir" tvg-name="Khalije Fars" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Khalije Fars
-https://live-azd1101.telewebion.ir/ek/khalijefars/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1107.telewebion.ir/ek/khalijefars/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="khoozestan.ir" tvg-name="Khoozestan" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Khoozestan
 https://live-azd1101.telewebion.ir/ek/khoozestan/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
@@ -115,10 +115,10 @@ https://live-azd1101.telewebion.ir/ek/zagros/live/1080p/index.m3u8|Referer=https
 https://live-azd1101.telewebion.ir/ek/dena/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="kish.ir" tvg-name="Kish" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Kish
-https://live-azd1101.telewebion.ir/ek/kish/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1108.telewebion.ir/ek/kish/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="sabz.ir" tvg-name="Sabz / Golestan" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Sabz / Golestan
-https://live-azd1101.telewebion.ir/ek/sabz/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1105.telewebion.ir/ek/sabz/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="baran.ir" tvg-name="Baran" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Baran
 https://live-azd1101.telewebion.ir/ek/baran/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
@@ -147,14 +147,14 @@ https://live-azd1101.telewebion.ir/ek/khavaran/live/1080p/index.m3u8|Referer=htt
 #EXTINF:-1 tvg-id="tv1plus.ir" tvg-name="TV1 Plus" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",TV1 Plus
 https://live-azd1101.telewebion.ir/ek/tv1plus/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="habib.ir" tvg-name="Habib" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Habib
-https://live-azd1101.telewebion.ir/ek/habib/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
-
 #EXTINF:-1 tvg-id="iribu.ir" tvg-name="IRIBU / Roya" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",IRIBU / Roya
 https://live-azd1101.telewebion.ir/ek/iribu/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="iribu.ir" tvg-name="Habib / Habib" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",IRIBU / Roya
+https://live-azd1105.telewebion.ir/ek/iribu/live/720p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-id="razavi.ir" tvg-name="Razavi" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Razavi
-https://live-azd1101.telewebion.ir/ek/razavi/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1113.telewebion.ir/ek/razavi/live/720p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="tekyemadahi.ir" tvg-name="Tekye Madahi" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Tekye Madahi
 https://live-azd1101.telewebion.ir/ek/tekyemadahi/live/720p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
@@ -177,7 +177,7 @@ https://live-azd1101.telewebion.ir/ek/sport3/live/1080p/index.m3u8|Referer=https
 #EXTINF:-1 tvg-id="nesfejahan.ir" tvg-name="Nesfe Jahan" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Nesfe Jahan
 https://live-azd1101.telewebion.ir/ek/nesfejahan/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="Radio Tehran" tvg-name="Radio Tehran" tvg-logo="https://en.wikipedia.org/wiki/Radio_Tehran#/media/File:Logoradiotehran.png" group-title="Radio",Radio Tehran
+#EXTINF:-1 tvg-id="Radio Tehran" tvg-name="Radio Tehran" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Radio_Tehran_logo.svg/revision/latest?cb=20250624150610" group-title="Radio",Radio Tehran
 https://live-azd1105.telewebion.ir/ek/radiotehran/live/576p/index.m3u8
 
 #EXTINF:-1 tvg-id="Radio Payam" tvg-name="Radio Payam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5pBYI0zO2wZMHaKwcUUo0sPt2rrzkHnOIQ&s" group-title="Radio",Radio Payam
