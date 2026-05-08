@@ -4,13 +4,13 @@
 https://live.livetvstream.co.uk/LS-63503-4/index.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="tv1.ir" tvg-name="IRIB TV1" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="National",IRIB TV1
-https://live-azd1101.telewebion.ir/ek/tv1/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1102.telewebion.ir/ek/tv1/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="tv2.ir" tvg-name="IRIB TV2" tvg-logo="https://camo.githubusercontent.com/a8c7141699166015a7411e4bb3ceffc6d9fe3683144e9ab668317594ab025a33/68747470733a2f2f692e696d6775722e636f6d2f464b695464334f2e706e67" group-title="National",IRIB TV2
-https://live-azd1101.telewebion.ir/ek/tv2/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1111.telewebion.ir/ek/tv2/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="tv3.ir" tvg-name="IRIB TV3" tvg-logo="https://camo.githubusercontent.com/4bdf0031b2c47f752b4a9ad5304e7f0034491d5ca48efefcfe33d2b6c4bf535d/68747470733a2f2f692e696d6775722e636f6d2f366349614830632e706e67" group-title="National",IRIB TV3
-https://live-azd1101.telewebion.ir/ek/tv3/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1113.telewebion.ir/ek/tv3/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="tv4.ir" tvg-name="IRIB TV4" tvg-logo="https://camo.githubusercontent.com/fce8a2acd10788aac2850148e01d9dbbd1c7a1574bc699ad33fc846ae0782e45/68747470733a2f2f692e696d6775722e636f6d2f6673647a38316c2e706e67" group-title="National",IRIB TV4
 https://live-azd1101.telewebion.ir/ek/tv4/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
@@ -49,10 +49,10 @@ https://live-azd1101.telewebion.ir/ek/hdtest/live/1080p/index.m3u8|Referer=https
 https://live-azd1101.telewebion.ir/ek/ifilm/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="azarbayjangharbi.ir" tvg-name="Azarbayjan Gharbi" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Azarbayjan Gharbi
-https://live-azd1101.telewebion.ir/ek/azarbayjangharbi/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1111.telewebion.ir/ek/azarbayjangharbi/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="sahand.ir" tvg-name="Sahand" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Sahand
-https://live-azd1111.telewebion.ir/ek/sahand/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1103.telewebion.ir/ek/sahand/live/576p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="alborz.ir" tvg-name="Alborz" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Alborz
 https://live-azd1106.telewebion.ir/ek/alborz/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
@@ -61,7 +61,7 @@ https://live-azd1106.telewebion.ir/ek/alborz/live/1080p/index.m3u8|Referer=https
 https://live-azd1101.telewebion.ir/ek/esfahan/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="sabalan.ir" tvg-name="Sabalan" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Sabalan
-https://live-azd1101.telewebion.ir/ek/sabalan/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
+https://live-azd1113.telewebion.ir/ek/sabalan/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="bushehr.ir" tvg-name="Bushehr" tvg-logo="https://camo.githubusercontent.com/181562aa9152fdb1cf47b29331d04f69ee31347ca8806360e1edf37925498d86/68747470733a2f2f692e696d6775722e636f6d2f726164394775772e706e67" group-title="Regional",Bushehr
 https://live-azd1101.telewebion.ir/ek/bushehr/live/1080p/index.m3u8|Referer=https://telewebion.ir/&User-Agent=Mozilla/5.0
